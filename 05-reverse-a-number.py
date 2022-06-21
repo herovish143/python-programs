@@ -1,4 +1,4 @@
-# Python Program to Reverse a Given Number
+# WAP to Reverse a Given Number
 
 from os import remove
 

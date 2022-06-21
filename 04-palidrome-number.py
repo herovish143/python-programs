@@ -1,4 +1,4 @@
-# Python Program to Check if a Number is a Palindrome
+# WAP to Check if a Number is a Palindrome
 
 num = int(input("Please enter the number to check is palidrome or not"))
 

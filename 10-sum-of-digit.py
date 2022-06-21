@@ -1,4 +1,4 @@
-# Python Program to Compute the Sum of Digits in a given Integer
+# WAP to Compute the Sum of Digits in a given Integer
 
 num = int(input("Please enter any number for sum \n"))
 

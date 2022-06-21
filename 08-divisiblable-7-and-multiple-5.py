@@ -1,4 +1,4 @@
-# Python Program to Find Those Numbers which are Divisible by 7 and Multiple of 5 in a Given Range of Numbers
+# WAP to Find Those Numbers which are Divisible by 7 and Multiple of 5 in a Given Range of Numbers
 
 lower = int(input("Please enter the lower limit (number) \n"))
 upper = int(input("Please enter the upper limit (number) \n"))

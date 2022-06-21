@@ -1,4 +1,4 @@
-# Python Program to Find the Binary Equivalent of a Number Recursively
+# WAP to Find the Binary Equivalent of a Number Recursively
 
 lst = []
 

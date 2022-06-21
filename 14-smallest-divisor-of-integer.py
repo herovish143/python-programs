@@ -1,4 +1,4 @@
-# Python Program to Find the Smallest Divisor of an Integer
+# WAP to Find the Smallest Divisor of an Integer
 
 num = int(input('Please enter a number'))
 divisors=[]

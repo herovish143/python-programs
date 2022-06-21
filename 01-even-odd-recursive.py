@@ -1,4 +1,4 @@
-# Python Program to Determine Whether a Given Number is Even or Odd Recursively
+# WAP to Determine Whether a Given Number is Even or Odd Recursively
 
 def check(n):
     if(n<2) :

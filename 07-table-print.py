@@ -1,4 +1,4 @@
-# Python Program to Print Table of a Given Number
+# WAP to Print Table of a Given Number
 
 num = int(input('Please enter a number to print Table \n'))
 

@@ -1,4 +1,4 @@
-# Python Program to Check Whether a Number is Positive or Negative
+# WAP to Check Whether a Number is Positive or Negative
 
 num = int(input("Please enter the number.."))
 

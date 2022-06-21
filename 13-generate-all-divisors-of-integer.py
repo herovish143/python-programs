@@ -1,4 +1,4 @@
-# Python Program to Generate all the Divisors of an Integer
+# WAP to Generate all the Divisors of an Integer
 num = int(input("Please enter a number"))
 
 print("The divisors of the number are:")
